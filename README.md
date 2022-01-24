@@ -1,4 +1,4 @@
-# mediumclone_vue
+# demo.realworld.io proto
 
 ## Project setup
 ```
